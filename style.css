@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(221, 218, 218);
+    font-family: cursive;
+}
+
+#welcome-message{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#note{
+    text-align: center;
+    margin-top: 5%;
+    color: brown;
+}
+
+.vertical-center{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 5%;
+    font-size: 30px;
+    color: black;
+    padding: 20px;
+    width: 200px;
+    margin-left: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    box-shadow: 2px 2px 2px black;
+    transition: 0.6s;
+}
+
+h2{
+    text-align: center;
+}
